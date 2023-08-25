@@ -33,3 +33,31 @@
 //     default:
 //         console.log('We hope that this page looks ok!'); break;
 // }
+
+// If else
+// let a = 54;
+// if (a % 2 === 1) {
+//     console.log(`${a} soni toq son!`);
+// } else {
+//     console.log(`${a} soni juft son!`);
+// }
+
+//Ternary operator
+// let a=52;
+// a%2===1 ? console.log(`${a} soni toq son!`)
+// : console.log(`${a} soni juft son!`);
+
+// let week_day='April';
+// switch (week_day) {
+//     case 'Mon': console.log('Dushanba'); break;
+//     case 'Tue': console.log('Seshanba'); break;
+//     case 'Wed': console.log('Chorshanba'); break;
+//     case 'Thu': console.log('Payshanba'); break;
+//     case 'Fri': console.log('Juma'); break;
+//     case 'Sat': console.log('Shanba'); break;
+//     case 'Sun': console.log('Yakshanba'); break;
+//     default: console.log('Faqat hafta kunlarini yozing!');
+// }
+
+// ?? Nullish operator => null , undefined
+// console.log(null ?? undefined ?? false);
